@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Yahya Al-Naqeeb
 
-<!--
-**yahyaalnaqeeb/yahyaalnaqeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an IT Leader with a strong background in DevOps, Cloud technologies, Full-Stack, and Mobile Solutions. Currently, I lead technology initiatives at Yusr Solutions and Dhamar University, focusing on building scalable and efficient systems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **DevOps & Cloud**: CI/CD, Github Action, Jenkins, Docker, Kubernetes, AWS, Azure ,DigitalOccean
+- **Full-Stack Development**: Node.js, React, Angular, Express, MongoDB
+- **Mobile Development**: Flutter, React Native
+- **Programming Languages**: Python, JavaScript, Dart
+- **Tools & Technologies**: Git, Terraform, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaalnaqeeb&show_icons=true&hide_title=true)
+
+## 📫 How to Reach Me
+- Email: [yahiaalnaqeeb@gmail.com](mailto:yahiaalnaqeeb@gmail.com)
+- LinkedIn: [linkedin.com/in/yahya-al-naqeeb-488700168](https://www.linkedin.com/in/yahya-al-naqeeb-488700168/)
