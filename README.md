@@ -11,7 +11,13 @@ I'm an IT Leader with a strong background in DevOps, Cloud technologies, Full-St
 - **Tools & Technologies**: Git, Terraform, Ansible
 
 ## 📈 GitHub Stats
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaalnaqeeb&show_icons=true&count_private=true&hide_title=true)
+![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaAlnaqeeb&show_icons=true&count_private=true&include_all_commits=true&hide_title=false)
+
+## 🖥️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAlnaqeeb&layout=compact&count_private=true)
+
+## 📅 Contributions Calendar
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YahyaAlnaqeeb)
 
 
 ## 📫 How to Reach Me
